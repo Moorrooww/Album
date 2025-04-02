@@ -1,6 +1,6 @@
 body{
-    background-color:#92009f;
-    color: #cf2e2a;
+    background-color:#000000;
+    color: #ffffff;
 }
 
 h1{ 
@@ -14,12 +14,13 @@ p {
     width: 300px;
 }
 
-    ol{color: #cf2e2a;
+    ol{color: #ffffff;
         
     }
 
     li{ 
-        color: #cf2e2a; 
+        
+        color: #ffffff; 
     }
     img{ 
         width: 100%; 
@@ -29,6 +30,21 @@ p {
     }
 li a {
      text-decoration: none;
-    color:#cf2e2a ;
+    color:#ffffff ;
+    
+}
+
+ol{
+    border-radius: 60px ;
+    border:  1px solid rgb(255, 255, 255);
+    width: 300px; 
+    height: 435px;
+    
+    
+
+}
+
+h3{
+    text-align: center;
     
 }
