@@ -1,0 +1,34 @@
+body{
+    background-color:#92009f;
+    color: #cf2e2a;
+}
+
+h1{ 
+    text-align: center;
+
+}
+
+p {
+    text-align: center;
+    text-align: left;
+    width: 300px;
+}
+
+    ol{color: #cf2e2a;
+        
+    }
+
+    li{ 
+        color: #cf2e2a; 
+    }
+    img{ 
+        width: 100%; 
+        height: 300px; 
+        object-fit: contain;
+        
+    }
+li a {
+     text-decoration: none;
+    color:#cf2e2a ;
+    
+}
